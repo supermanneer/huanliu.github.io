@@ -1,0 +1,65 @@
+.header{
+ border:5px solid rgb(70, 89, 128);
+ text-align: center;
+ padding-top:5px;
+ padding-bottom: 15px;
+ background-color:rgb(186, 203, 237);
+
+ .name{
+ font-weight: bold;
+ font-size: 25px;
+ }
+ .address{
+
+ }
+ .contact{
+  .tellabel{
+
+  }  
+  .emailabel{
+    margin-left:20px;
+  }
+
+  .tel{
+
+  }  
+  .email{
+
+  }
+ }
+}
+section{
+    padding-left:10px;
+    margin-top:10px;
+    .columnname{
+        text-decoration: underline;
+        font-weight: bold;
+        font-size: 17px;
+    }
+
+    .wrap{
+        .list{
+            .cname{
+                font-weight: bold;
+            }
+
+            .school{
+                margin-left:15px;
+            }
+        }
+    }
+    .wrapengin{
+        margin:0;
+        padding:0;
+        list-style: none;
+        /* border:1px solid red; */
+    text-align: left;
+    .listname{
+        padding:5px;
+        font-weight: bold;
+            text-align: left;
+        /* background-color:yellow; */
+   margin-left:0;
+    }
+    }
+}
